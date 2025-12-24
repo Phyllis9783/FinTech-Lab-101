@@ -1,4 +1,4 @@
-# 📈 FinTech-Lab-101：金融科技實驗室-打造你的第一個 Python 理財助理
+# 📈 FinTech-Lab-101：金融科技實驗室-打造你的第一個Python理財助理
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Powered by Gemini](https://img.shields.io/badge/AI-Gemini%202.0-orange.svg)](https://deepmind.google/technologies/gemini/)
