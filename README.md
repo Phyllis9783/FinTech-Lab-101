@@ -324,7 +324,7 @@ prompt = f"""
 ## 📧 聯絡方式
 
 - 💬 GitHub Issues: [提問](https://github.com/Phyllis9783/FinTech-Lab-101/issues)
-- 📧 Email: Phyllis.strategy@gmail.com
+- 📧 Email: phyllis.strategy@gmail.com
 ---
 
 <div align="center">
