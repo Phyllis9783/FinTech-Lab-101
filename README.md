@@ -1,10 +1,9 @@
-# 📈 FinBot Pro - AI 投資學習助理（教學版）
-
+# 📈 FinTech-Lab-101：金融科技實驗室-打造你的第一個 Python 理財助理
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
 [![Python 3.9+](https://img.shields.io/badge/python-3.9+-blue.svg)](https://www.python.org/downloads/)
 [![Powered by Gemini](https://img.shields.io/badge/AI-Gemini%202.0-orange.svg)](https://deepmind.google/technologies/gemini/)
 
-> 一個教學導向的 AI 投資組合管理系統，幫助初學者學習如何使用 Python、AI 和雲端服務建立自動化工具。
+>教你如何串接 Google Sheets、Gemini AI 與 Python，打造屬於自己的 24 小時金融數據守護者。
 
 ⚠️ **重要聲明**：
 - 本專案僅供**個人學習與研究**使用
