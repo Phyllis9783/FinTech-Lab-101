@@ -323,9 +323,8 @@ prompt = f"""
 
 ## 📧 聯絡方式
 
-- 💬 GitHub Issues: [提問](https://github.com/你的帳號/finbot-pro-tutorial/issues)
-- 📧 Email: learning@example.com
-
+- 💬 GitHub Issues: [提問](https://github.com/Phyllis9783/FinTech-Lab-101.git/issues)
+- 📧 Email: Phyllis.strategy@gmail.com
 ---
 
 <div align="center">
