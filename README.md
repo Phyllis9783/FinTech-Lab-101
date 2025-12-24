@@ -104,7 +104,7 @@ SECRET_KEY=自訂安全金鑰
 
 建立試算表並包含兩個分頁：
 
-**Portfolio（資產配置）**：
+**Portfolio（資產配置範例）**：
 ```
 | Symbol | Cost | Shares |
 |--------|------|--------|
@@ -112,7 +112,7 @@ SECRET_KEY=自訂安全金鑰
 | AAPL   | 180  | 10     |
 ```
 
-**Watchlist（觀察清單）**：
+**Watchlist（觀察清單範例）**：
 ```
 | Symbol | Market | Sector | Name | Priority |
 |--------|--------|--------|------|----------|
